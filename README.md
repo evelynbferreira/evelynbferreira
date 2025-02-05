@@ -15,7 +15,7 @@
 </div>
  
  <div style='display: inline_block'><br> 
-  <img align='right' alt= 'gif' src='https://github.com/user-attachments/assets/9e54eb9f-6707-40d6-b54c-91e533f706fb'
+  <img align='right' alt= 'gif' src='https://github.com/user-attachments/assets/ad98a724-3a24-46f5-ac11-5b0f6a4cb78a'
    </div>
 
 ## Linguagens e Tecnologias
