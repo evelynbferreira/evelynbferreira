@@ -1,6 +1,9 @@
-## 👩🏻‍💻 Evelyn Ferreira 
+### 👩🏻‍💻 Evelyn Ferreira 
+<div style='display: inline_block'><br> 
+  <img align='right' alt= 'gif' src='https://github.com/user-attachments/assets/9ef59fb0-5664-42a3-bd47-24c96634dec2'
+   </div>
 
-• Em busca de um estágio na área de TI
+ • Em busca de um estágio na área de TI
 
 • Faço faculdade na Multivix cursando Análise e Desenvolvimento de Sistemas
 
@@ -14,10 +17,6 @@
  
 </div>
  
- <div style='display: inline_block'><br> 
-  <img align='right' alt= 'gif' src='https://github.com/user-attachments/assets/ad98a724-3a24-46f5-ac11-5b0f6a4cb78a'
-   </div>
-
 ## Linguagens e Tecnologias
 
 <img 
