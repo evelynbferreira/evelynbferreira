@@ -11,8 +11,12 @@
   <a href="https://instagram.com/evelynbferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoevelynbferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/evelynbferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ 
 </div>
+ 
+ <div style='display: inline_block'><br> 
+  <img align='right' alt= 'gif' src='https://discord.com/channels/1182873695383982182/1182873696050888787/1336810305111724162'
+   </div>
 
 ## Linguagens e Tecnologias
 
