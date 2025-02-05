@@ -1,8 +1,4 @@
-<div style='display: inline_block'><br> 
-  <img align='right' alt= 'gif' src='https://github.com/user-attachments/assets/61030ebf-746e-457a-b235-f39374134663'
-   </div>
-
-  <div align="center">
+ <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F709DA&width=435&lines=%E2%80%A2+Ol%C3%A1%2C+eu+sou+a+Evelyn+Ferreira!+%E2%80%A2" alt="Typing SVG">
   </a>
@@ -14,8 +10,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
  
- 
- <img align="right" alt="" height="190px" src="./src/study.gif">
+  <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left"></h3>
 
@@ -23,9 +18,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/evelynbferreira/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/evelynbferreira/)
 
+#
+
  
- 
-## Linguagens e Tecnologias
+ ### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -39,6 +35,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <br/>
 <br/>
 
+#
 
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats </h3>
