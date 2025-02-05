@@ -1,21 +1,29 @@
-### 👩🏻‍💻 Evelyn Ferreira 
 <div style='display: inline_block'><br> 
-  <img align='right' alt= 'gif' src='https://github.com/user-attachments/assets/9ef59fb0-5664-42a3-bd47-24c96634dec2'
+  <img align='right' alt= 'gif' src='https://github.com/user-attachments/assets/61030ebf-746e-457a-b235-f39374134663'
    </div>
 
- • Em busca de um estágio na área de TI
-
-• Faço faculdade na Multivix cursando Análise e Desenvolvimento de Sistemas
-
-• Estudando Python
- 
-
-<div> 
-  <a href="https://instagram.com/evelynbferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoevelynbferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/evelynbferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F709DA&width=435&lines=%E2%80%A2+Ol%C3%A1%2C+eu+sou+a+Evelyn+Ferreira!+%E2%80%A2" alt="Typing SVG">
+  </a>
 </div>
+
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Multivix. Atualmente estou buscando um estágio.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
+ 
+ 
+ <img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left"></h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contatoevelynbferreira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/evelynbferreira/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/evelynbferreira/)
+
+ 
  
 ## Linguagens e Tecnologias
 
@@ -31,22 +39,13 @@
 <br/>
 <br/>
 
-###  Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=evelynbferreira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="text-align: center;" align="center">
+  <h3> GitHub Stats </h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evelynbferreira&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynbferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evelynbferreira&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
