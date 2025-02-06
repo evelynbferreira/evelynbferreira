@@ -9,10 +9,9 @@
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
- 
-  <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left"></h3>
+  <img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/e71af23a-ec5f-489a-a90a-949274425eac">
+<h3 align="left">Connect</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contatoevelynbferreira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/evelynbferreira/)
@@ -20,7 +19,6 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 ###  Linguagens
-
 
 <img 
     align="left" 
