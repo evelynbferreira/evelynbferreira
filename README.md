@@ -10,7 +10,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-  <img align="right" alt="" height="210px" src="https://github.com/user-attachments/assets/e71af23a-ec5f-489a-a90a-949274425eac">
+  <img align="right" alt="" height="200px" src="https://github.com/user-attachments/assets/e71af23a-ec5f-489a-a90a-949274425eac">
 <h3 align="left">Connect</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contatoevelynbferreira@gmail.com)
